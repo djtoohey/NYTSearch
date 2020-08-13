@@ -1,6 +1,6 @@
 var searchBtn = $("#run-search");
 var clearBtn = $("#clear-all");
-
+// 
 var articleDisplay = $("#articles-display");
 
 searchBtn.on("click", function () {
